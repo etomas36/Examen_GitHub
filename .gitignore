@@ -1,0 +1,4 @@
+#Impedir el que se suban archivos:
+.dat
+#Imperdir que se suban cosas de Camilo
+Camilo/
